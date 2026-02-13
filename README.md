@@ -1,10 +1,10 @@
 # Hi, I'm Sachin Kumar 👋
 
-### Principal Engineer – WPF | C#/.NET | Desktop & GIS Applications
+### Principal Engineer – WPF | C#/.NET | GIS & Engineering Software
 
-I am a Principal WPF Engineer with 14+ years of experience building high-performance desktop applications for engineering and scientific domains.
+Principal WPF Engineer with 14+ years of experience building high-performance desktop applications for engineering and scientific domains.
 
-I specialize in WPF architecture, MVVM/Prism, performance optimization, and large-dataset visualization. My work focuses on creating scalable, maintainable, and responsive desktop systems used by professionals in real-world engineering workflows.
+Specialized in WPF architecture, MVVM/Prism, performance optimization, and large-dataset visualization. My work supports real-world hydrology, civil engineering, and geospatial analysis used by professionals globally.
 
 ---
 
@@ -49,13 +49,42 @@ I specialize in WPF architecture, MVVM/Prism, performance optimization, and larg
 
 ---
 
-## 🏗 Notable Work
 
-I have contributed to major engineering applications such as:
+# 🏗 Major Products I Contributed To
 
-- **GeoHECRAS** – Hydraulic and river analysis software  
-- **GeoHECHMS** – Hydrological modeling platform  
-- **GeoSTORM** – Stormwater and civil engineering tools  
+## 🌊 GeoHECRAS  
+Hydraulic & river analysis software for floodplain mapping and civil engineering.
+
+🔗 Product Page  
+https://www.civilgeo.com/geohecras/
+
+🎥 Videos  
+https://www.youtube.com/watch?v=BZkChRvaC5U  
+https://www.youtube.com/watch?v=D9GmgX9qhPc
+
+---
+
+## 🌧 GeoHECHMS  
+Hydrological modeling software for watershed and rainfall-runoff analysis.
+
+🔗 Product Page  
+https://www.civilgeo.com/geohechms/
+
+🎥 Videos  
+https://www.youtube.com/watch?v=KbHGjB06oPE  
+https://youtube.com/watch?v=Gxck4hRmlRk
+
+---
+
+## 🌩 GeoSTORM  
+Stormwater and drainage modeling software integrated with Civil3D.
+
+🔗 Product Page  
+https://www.civilgeo.com/geostorm/
+
+🎥 Videos  
+https://www.youtube.com/watch?v=KLrykstn3AA  
+https://www.youtube.com/watch?v=edEWqY55A4M
 
 My work includes UI architecture, visualization systems, and performance optimization for data-heavy engineering workflows.
 
