@@ -31,27 +31,52 @@ Focused on:
 
 ## 🏗 Major Products I Contributed To
 
-### 🌊 GeoHECRAS  
-Hydraulic & river analysis software for civil engineering workflows.  
-🔗 https://www.civilgeo.com/geohecras/  
-🎥 https://www.youtube.com/watch?v=BZkChRvaC5U  
-🎥 https://www.youtube.com/watch?v=D9GmgX9qhPc  
+## 🌊 GeoHECRAS  
+Hydraulic and river analysis software for floodplain mapping and civil engineering.
+
+🔗 Product Page  
+https://www.civilgeo.com/geohecras/
+
+🎥 Demo  
+[![GeoHECRAS Demo](https://img.youtube.com/vi/BZkChRvaC5U/maxresdefault.jpg)](https://www.youtube.com/watch?v=BZkChRvaC5U)
 
 ---
 
-### 🌧 GeoHECHMS  
-Watershed & hydrological simulation tool with scenario analysis.  
-🔗 https://www.civilgeo.com/geohechms/  
-🎥 https://www.youtube.com/watch?v=KbHGjB06oPE  
-🎥 https://youtube.com/watch?v=Gxck4hRmlRk  
+## 🌧 GeoHECHMS  
+Hydrological modeling software for watershed and rainfall-runoff analysis.
+
+🔗 Product Page  
+https://www.civilgeo.com/geohechms/
+
+🎥 Demo  
+[![GeoHECHMS Demo](https://img.youtube.com/vi/KbHGjB06oPE/maxresdefault.jpg)](https://www.youtube.com/watch?v=KbHGjB06oPE)
 
 ---
 
-### 🌩 GeoSTORM  
-Stormwater and drainage modeling integrated with Civil3D.  
-🔗 https://www.civilgeo.com/geostorm/  
-🎥 https://www.youtube.com/watch?v=KLrykstn3AA  
-🎥 https://www.youtube.com/watch?v=edEWqY55A4M  
+## 🌩 GeoSTORM  
+Stormwater and drainage modeling integrated with Civil3D.
+
+🔗 Product Page  
+https://www.civilgeo.com/geostorm/
+
+🎥 Demos  
+
+[![GeoSTORM Demo 1](https://img.youtube.com/vi/KLrykstn3AA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KLrykstn3AA)
+
+[![GeoSTORM Demo 2](https://img.youtube.com/vi/edEWqY55A4M/maxresdefault.jpg)](https://www.youtube.com/watch?v=edEWqY55A4M)
+
+---
+
+# 🔧 Selected Contribution
+
+## Profile Plot Command
+
+Designed and implemented the **Profile Plot command** used for pipeline and terrain profile visualization.
+
+📖 Documentation  
+https://knowledge.civilgeo.com/profile-plot-command/
+
+This feature helps engineers analyze profiles for drainage and stormwater design workflows.
 
 ---
 
