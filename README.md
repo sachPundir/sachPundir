@@ -15,17 +15,14 @@ Focused on:
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Core Expertise
 
-| Technology | Category |
-|------------|----------|
-| C# | Programming |
-| .NET / .NET Core | Framework |
-| WPF, MVVM, Prism | Desktop UI |
-| XAML | UI Markup |
-| SQL Server | Database |
-| OxyPlot, GIS | Visualization |
-| Multithreading | Performance |
+- **Desktop Application Architecture** — WPF, MVVM, Prism, XAML, Custom Controls  
+- **C# / .NET Development** — .NET Framework, .NET Core  
+- **Performance Optimization** — Multithreading, Async/Await, UI responsiveness  
+- **Scientific & GIS Visualization** — OxyPlot, osgEarth, geospatial data  
+- **Data Handling** — SQL Server, large datasets  
+- **Development Tools** — Visual Studio, Git, ReSharper 
 
 ---
 
@@ -85,8 +82,6 @@ This feature helps engineers analyze profiles for drainage and stormwater design
 - **Geo Tools UI** — WPF control libraries & patterns  
 - **OxyPlot Extensions** — Helpers for engineering visualization  
 - **WPF Performance Demos** — Sample techniques for responsiveness  
-
-*(Add links when ready)*
 
 ---
 
